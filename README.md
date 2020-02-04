@@ -2,7 +2,7 @@
 
 <p align="center" >
    <a href="">
-    <img alt="" src="https://media.giphy.com/media/cgfCdqzts6nqZKS5Ad/giphy.gif" width="510" height="510" />
+    <img alt="" src="https://media.giphy.com/media/cgfCdqzts6nqZKS5Ad/giphy.gif" width="800" height="510" />
  </a>
 
 </p>
